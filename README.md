@@ -1,15 +1,12 @@
-# Tic-Tac-Toe (Python - Terminal Version)
+# Tic-Tac-Toe - Python and JavaScript Versions
 
-👋 Hi there! I'm currently learning Python. This simple Tic-Tac-Toe game is one of my first projects after completing some YouTube tutorials to gain hands-on experience with the language.The game runs in the terminal.
+Hi there! I'm currently learning Python. This simple Tic-Tac-Toe game is one of my first projects after completing some YouTube tutorials to gain hands-on experience with the language. 
 
-## 🚀 Features
-- Two-player mode (alternating turns)
-- Input validation
-- Win detection
-- Draw detection
+- `tictactoe.py` - The original version written in Python.
+- `script.js` - A one-to-one JavaScript port of the Python version.
 
-## 📚 What I learned
-- Working with functions and loops
-- Handling user input
-- Basic program logic
-- Debugging simple issues
+## Description
+The JavaScript version is a direct translation of the original Python implementation.
+The goal was to reproduce the game logic and structure as closely as possible using JavaScript syntax.
+
+Both versions are console-based and run in the terminal.
