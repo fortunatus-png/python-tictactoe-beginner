@@ -1,11 +1,11 @@
 
-import Square from './components/Square';
+import Game from './components/Game';
 
 function App() {
   return (
     <div className="App">
-      <h1>One-to-one translation of tictactoe.js to react</h1>
-      <Square />
+      <h1>Translation of tictactoe.js to React</h1>
+      <Game />
     </div>
   );
 }
